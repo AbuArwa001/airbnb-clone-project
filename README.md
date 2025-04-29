@@ -12,11 +12,11 @@ This is designed to provide a robust and scalable foundation for managing user i
 ---
 ## 👥 Team Roles
 
-**Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.
-**Test automation engineer**: is there to help you test faster and better. To enable that, they develop test automation scripts—small programs that provide reliable and continuous feedback on application quality without any human involvement.
-**Database Administrator **: Manages database design, indexing, and optimizations.
-**DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
-**QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+- **Backend Developer**: Responsible for implementing API endpoints, database schemas, and business logic.
+- **Test automation engineer**: is there to help you test faster and better.To enable that, they develop test automation scripts—small programs that provide reliable and continuous feedback on application quality without any human involvement.
+- **Database Administrator**: Manages database design, indexing, and optimizations.
+- **DevOps Engineer**: Handles deployment, monitoring, and scaling of the backend services.
+- **QA Engineer**: Ensures the backend functionalities are thoroughly tested and meet quality standards.
 
 ---
 ## ⚙️ Technology Stack
