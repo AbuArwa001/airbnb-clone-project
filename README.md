@@ -91,4 +91,11 @@ This is designed to provide a robust and scalable foundation for managing user i
   - **Caching**: Use caching strategies to reduce database load and improve performance.
 
 ## 🔒 API Security
+**Authentication & Authorization**
+✔ Implemented user login (username/password) to validate resource ownership.
+✔ Role-based access control (RBAC) for endpoint permissions.
+
+**Rate Limiting**
+✔ Enforced limits (e.g., ≤10 requests/60 seconds) to prevent DDoS/bot attacks.
+✔ Integrated with tools like Cloudflare or Express-rate-limit.
 
