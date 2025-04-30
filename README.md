@@ -99,3 +99,6 @@ This is designed to provide a robust and scalable foundation for managing user i
 ✔ Enforced limits (e.g., ≤10 requests/60 seconds) to prevent DDoS/bot attacks.
 ✔ Integrated with tools like Cloudflare or Express-rate-limit.
 
+## CI/CD Pipeline
+CI/CD refers to a pipeline where you can submit new code on one end, let it get tested through phases such as sourcing, building, staging, and production, and then finally release it as a ready-for-production code.
+The technical purpose of CI is to create a standardized and automated process for developing, packaging, and testing programs. Most developer teams are inclined toward code changes when the integration process achieves better cooperation and software quality. On the other hand, the CD begins where CI ends to ensure that the code changes are automatically pushed to the selected infrastructure environments.
